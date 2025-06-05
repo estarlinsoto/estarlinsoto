@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estarlinsoto" alt="estarlinsoto" /></a> </p>
 
-- 🔭 I’m currently working on [InstagramClone](Instagram_Project)
+- 🔭 I’m currently working on [InstagramClone](https://github.com/estarlinsoto/Instagram_Project)
 
 - 🌱 I’m currently learning **TypeScript & C#**
 
