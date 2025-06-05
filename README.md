@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estarlinsoto" alt="estarlinsoto" /></a> </p>
 
-- 🔭 I’m currently working on [GymApp](https://github.com/estarlinsoto/Gym-App-final-project)
+- 🔭 I’m currently working on [InstagramClone](Instagram_Project)
 
-- 🌱 I’m currently learning **Java & C#**
+- 🌱 I’m currently learning **TypeScript & C#**
 
 - 👯 I’m looking to collaborate on **Web develoment projects**
 
